@@ -8,6 +8,8 @@ import WishlistButton from '@components/wishlist/WishlistButton'
 import usePrice from '@framework/product/use-price'
 import ProductTag from '../ProductTag'
 
+
+
 interface Props {
   className?: string
   product: Product
@@ -30,7 +32,7 @@ const ProductCard: FC<Props> = ({
     baseAmount: product.price.retailPrice,
     currencyCode: product.price.currencyCode!,
   })
-
+  // console.log(product);
   const rootClassName = cn(
     s.root,
     { [s.slim]: variant === 'slim', [s.simple]: variant === 'simple' },
@@ -40,6 +42,7 @@ const ProductCard: FC<Props> = ({
   return (
     <Link href={`/product/${product.slug}`}>
       <a className={rootClassName}>
+
         {variant === 'slim' && (
           <>
             <div className={s.header}>
@@ -52,7 +55,7 @@ const ProductCard: FC<Props> = ({
                 alt={product.name || 'Product Image'}
                 height={320}
                 width={320}
-                layout="fixed"
+                //layout="fixed"
                 {...imgProps}
               />
             )}

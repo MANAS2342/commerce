@@ -68,6 +68,8 @@ export type SearchProductsHook<T extends ProductTypes = ProductTypes> = {
   fetcherInput: T['searchBody']
 }
 
+
+
 export type ProductsSchema<T extends ProductTypes = ProductTypes> = {
   endpoint: {
     options: {}

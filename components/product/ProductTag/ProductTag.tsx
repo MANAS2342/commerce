@@ -9,6 +9,9 @@ interface ProductTagProps {
   fontSize?: number
 }
 
+
+
+
 const ProductTag: React.FC<ProductTagProps> = ({
   name,
   price,

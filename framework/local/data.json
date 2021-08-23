@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "New Short Sleeve T-Shirt",
+      "name": "Samsung Galaxy",
       "vendor": "Next.js",
       "path": "/new-short-sleeve-t-shirt",
       "slug": "new-short-sleeve-t-shirt",
@@ -10,19 +10,19 @@
       "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
       "images": [
         {
-          "url": "/assets/drop-shirt-0.png",
+          "url": "/assets/img/mobile2.png",
+          "altText": "Shirt",
+          "width": 1000,
+          "height": 800
+        },
+        {
+          "url": "/assets/img/mobile2.png",
           "altText": "Shirt",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/drop-shirt-1.png",
-          "altText": "Shirt",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/drop-shirt-2.png",
+          "url": "/assets/img/mobile1.png",
           "altText": "Shirt",
           "width": 1000,
           "height": 1000
@@ -75,7 +75,7 @@
     },
     {
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9ksdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "Lightweight Jacket",
+      "name": "ASUS Laptop",
       "vendor": "Next.js",
       "path": "/lightweight-jacket",
       "slug": "lightweight-jacket",
@@ -83,19 +83,19 @@
       "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
       "images": [
         {
-          "url": "/assets/lightweight-jacket-0.png",
+          "url": "/assets/img/laptop3.png",
+          "altText": "Lightweight Jacket",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "url": "/assets/img/laptop1.png",
           "altText": "Lightweight Jacket",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/lightweight-jacket-1.png",
-          "altText": "Lightweight Jacket",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/lightweight-jacket-2.png",
+          "url": "/assets/img/laptop2.png",
           "altText": "Lightweight Jacket",
           "width": 1000,
           "height": 1000
@@ -148,7 +148,7 @@
     },
     {
       "id": "Z2lkOis8vc2hvcGlmsddeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "Shirt",
+      "name": "Laptops",
       "vendor": "Next.js",
       "path": "/shirt",
       "slug": "shirt",
@@ -156,31 +156,31 @@
       "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
       "images": [
         {
-          "url": "/assets/t-shirt-0.png",
+          "url": "/assets/img/laptop1.png",
+          "altText": "Shirt",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "url": "/assets/img/laptop3.png",
+          "altText": "Shirt",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "url": "/assets/img/laptop1.png",
           "altText": "Shirt",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/t-shirt-1.png",
+          "url": "/assets/img/mobile1.png",
           "altText": "Shirt",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/t-shirt-2.png",
-          "altText": "Shirt",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/t-shirt-3.png",
-          "altText": "Shirt",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/t-shirt-4.png",
+          "url": "/assets/img/mobile2.png",
           "altText": "Shirt",
           "width": 1000,
           "height": 1000
